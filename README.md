@@ -11,4 +11,4 @@ It calculates simple interest using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
 
-The result is displayed in the terminal.
+The result is displayed in the terminal
